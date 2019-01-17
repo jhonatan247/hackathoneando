@@ -1,4 +1,4 @@
-#### [Main](https://github.com/jhonatan247/hackathoneando/blob/master/README.md)/Rules
+#### [Main](https://github.com/jhonatan247/hackathoneando/blob/master/README.md) / Rules
 
 # Hackathon Rules
 These are standard competition rules used at Hackathoneando Hackathons. Not all Hackathoneando Hackathons will use these rules as organizers can choose to use these or their own rules. Organizers can use these rules exactly or fork them and edit them to suit their needs. If you have a suggestion for these rules or a question about them, please submit an issue here.

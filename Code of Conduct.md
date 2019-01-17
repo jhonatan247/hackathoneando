@@ -1,4 +1,4 @@
-#### [Main](https://github.com/jhonatan247/hackathoneando/blob/master/README.md) / Code of Conduct
+> [Main](https://github.com/jhonatan247/hackathoneando/blob/master/README.md) / Code of Conduct
 
 # Code of Conduct
 **TL;DR.** Be respectful. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at an MLH Member Event, if the event itself is creating an unsafe or inappropriate environment, or if interacting with a MLH representative or event organizer makes you uncomfortable, please report it using the procedures included in this document.
